@@ -10,7 +10,7 @@
    │        │  ├─ Illaoi.png
    │        │  ├─ Irelia.png
    │        │  └─ Ivern.png
-   │        │ <img width="1045" alt="image" src="https://github.com/SunghyukLee-GGQ/image_tree/assets/127205742/28123447-5f94-40d0-81c6-9fdb0d1a5cc3">
+   ![screenshot](https://github.com/SunghyukLee-GGQ/image_tree/assets/127205742/28123447-5f94-40d0-81c6-9fdb0d1a5cc3)
    │        │
    │        └─ portrait
    │           ├─ Brand.png
